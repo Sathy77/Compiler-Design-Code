@@ -1,0 +1,2 @@
+1. Create a lexical analyzer using flex which will do the works that you have implemented in lab task 1. (i.e. identifying identifiers, different types of numbers, keywords, operators, parenthesis etc.)   
+2. Build a flex file that will mimic all the at least 10 functions of a scientific calculator.  
